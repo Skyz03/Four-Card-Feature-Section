@@ -22,6 +22,34 @@ body {
 
 /* Card Section */
 
+.card-section {
+  padding-top: 3rem;
+  text-align: left;
+}
+
+.card {
+  background-color: hsl(0, 0%, 98%);
+  padding: 2rem;
+}
+
+.card-icon {
+  height: 20%;
+  width: 25%;
+}
+
+/* First Column */
+
+/* Second Column */
+.second-col-one {
+  margin-bottom: 5rem;
+}
+
+.second-col-two {
+  margin-top: 2rem;
+}
+
+/* Third Column */
+
 .attribution {
   font-size: 11px;
   text-align: center;
